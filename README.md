@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://{https://pisaniwebdesign.com/edie-homepage-master/Homepage}">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://{https://devchallenges.io/paths/responsive-web-developer/solutions}">
       Solution
     </a>
     <span> | </span>
@@ -43,7 +43,6 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 
 
 
-### Built With
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
