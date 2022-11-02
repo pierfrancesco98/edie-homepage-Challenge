@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{pisaniwebdesign.com/edie-homepage-master/Homepage}">
+    <a href="https://pisaniwebdesign.com/edie-homepage-master/Homepage">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{devchallenges.io/solutions/jtkP5NXWcJshCevrXC2f}">
+    <a href="https://devchallenges.io/solutions/jtkP5NXWcJshCevrXC2f">
       Solution
     </a>
     <span> | </span>
